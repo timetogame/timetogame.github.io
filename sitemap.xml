@@ -9,8 +9,19 @@
 
 <url>
   <loc>https://timetogame.ml/</loc>
-  <lastmod>2020-03-27T16:30:21+00:00</lastmod>
+  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+<url>
+  <loc>https://timetogame.ml/ru/</loc>
+  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://timetogame.ml/ru/index.html</loc>
+  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
 
 </urlset>
