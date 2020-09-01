@@ -9,18 +9,42 @@
 
 <url>
   <loc>https://timetogame.ml/</loc>
-  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
-  <priority>1.00</priority>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="uk"
+               href="https://timetogame.ml/"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="ru"
+               href="https://timetogame.ml/ru/"/>
+    <lastmod>2020-08-28T09:57:20+00:00</lastmod>
+    <priority>1.00</priority>
 </url>
 <url>
   <loc>https://timetogame.ml/ru/</loc>
-  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
-  <priority>0.80</priority>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="uk"
+               href="https://timetogame.ml/"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="ru"
+               href="https://timetogame.ml/ru/"/>
+    <lastmod>2020-08-28T09:57:20+00:00</lastmod>
+    <priority>0.80</priority>
 </url>
 <url>
   <loc>https://timetogame.ml/ru/index.html</loc>
-  <lastmod>2020-08-28T09:57:20+00:00</lastmod>
-  <priority>0.64</priority>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="uk"
+               href="https://timetogame.ml/index.html"/>
+    <xhtml:link 
+               rel="alternate"
+               hreflang="ru"
+               href="https://timetogame.ml/ru/index.html"/>
+    <lastmod>2020-08-28T09:57:20+00:00</lastmod>
+    <priority>0.64</priority>
 </url>
 
 
